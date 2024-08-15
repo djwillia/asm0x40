@@ -10,6 +10,13 @@ running, packaging into something bootable, etc.
 Hopefully this is good and simple enough for new OS projects to start
 from.
 
+The build is dockerized!
+
+```
+make docker
+make run
+```
+
 Here are some good resources that this is based on:
 
 https://github.com/winksaville/baremetal-x86_64/tree/master?tab=readme-ov-file
